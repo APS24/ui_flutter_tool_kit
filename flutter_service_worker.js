@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "a16d1b03349b9b477743bf57f6084df8",
-"assets/AssetManifest.bin.json": "50bd42b8d7d481ca15ec705112a0241c",
-"assets/AssetManifest.json": "1875b2da95bca84859be3f4ccd3a1676",
+const RESOURCES = {"assets/AssetManifest.bin": "2bdb5d6cf328880fa5371efb8fe01850",
+"assets/AssetManifest.bin.json": "37cc96f5c74a74aac3e4beef83688a6b",
+"assets/AssetManifest.json": "3c26f6ddc75ecfe1b4a11c130fdcb706",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "aa2fcf9ed9682fb65260d8b607a373d2",
+"assets/fonts/MaterialIcons-Regular.otf": "5e2e3ea1c00017c783481b5485ad51c3",
 "assets/lib/assets/products_sample_images/product1.png": "1dca69562ff58e9e45049b0e05329839",
 "assets/lib/assets/products_sample_images/product10.png": "67b8dfd5821e109f4235a681a759a459",
 "assets/lib/assets/products_sample_images/product2.png": "171d07fd84385551fed48213c49ae62a",
@@ -19,8 +19,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "a16d1b03349b9b477743bf57f6084df8
 "assets/lib/assets/products_sample_images/product8.png": "50a9af4bc0e847cb9adef1aa024afee8",
 "assets/lib/assets/products_sample_images/product9.png": "028a442fcf463fdfc1ebee74cdb1e05b",
 "assets/lib/assets/sample_images/accessories_category.png": "384a8c992e25d1bd62b230a23d21bbc8",
+"assets/lib/assets/sample_images/contact_us.png": "7b452476b0507ceded271d07543086f7",
 "assets/lib/assets/sample_images/kids_category.png": "80fdffb8bbbcb84fa342f72ec7706e88",
 "assets/lib/assets/sample_images/men_category.png": "0f419d9a62ee1dfd1c9dcd07713cf7c2",
+"assets/lib/assets/sample_images/profile_image.png": "7f2f2bcb3537806796859c393d971c80",
 "assets/lib/assets/sample_images/sample_herobanner.png": "e5f3a7dba3ef5fe392a7dd3868532814",
 "assets/lib/assets/sample_images/sample_image_handbag.png": "5f7410f936b9b21ab6d3de65429c14ca",
 "assets/lib/assets/sample_images/sample_image_headphone.png": "835291486406ffb0a331cc081027beb2",
@@ -42,13 +44,13 @@ const RESOURCES = {"assets/AssetManifest.bin": "a16d1b03349b9b477743bf57f6084df8
 "canvaskit/skwasm.js.symbols": "e72c79950c8a8483d826a7f0560573a1",
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "4fbafb27b84974cbf9c37aec5b23dda5",
-"index.html": "ce9ef79378e0d6daf554364b6d9aa2d5",
-"/": "ce9ef79378e0d6daf554364b6d9aa2d5",
-"main.dart.js": "d9396130bc9637a32bdb9b89f1edd028",
-"manifest.json": "cb38169ebdd0dc1cc354482a346c5d94",
+"flutter_bootstrap.js": "0645410fd66f84bae1b9bca7feaeb00d",
+"index.html": "9494d977cff721eee18f9e5bd287dc0f",
+"/": "9494d977cff721eee18f9e5bd287dc0f",
+"main.dart.js": "4c3f63778d814e5dd5dd09b8d72bdce9",
+"manifest.json": "0555d4a91ab9c0ee5a2fbb63e8cabec5",
 "ui_kit_favicon.png": "3a9fc38210fae6ef17b9bf1cf45b77c7",
-"version.json": "0d850febf162a9f478ec1709a6207eb6"};
+"version.json": "ad8443517d7db5ba095ede0ffc29da72"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
